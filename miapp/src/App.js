@@ -1,13 +1,23 @@
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+
+    </div>
+
+
+  );
+}
+
+export default App;
+
+// codigo insued
+      /* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          este es untexto de prueba🚀
         </p>
         <a
           className="App-link"
@@ -17,11 +27,4 @@ function App() {
         >
           Learn React
         </a>
-      </header>
-    </div>
-
-
-  );
-}
-
-export default App;
+      </header> */
