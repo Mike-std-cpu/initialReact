@@ -1,14 +1,16 @@
 // import logo from './logo.svg';
 import './App.scss';
-import Container from './components/container'
+import Container from './components/container' // Importa la funcion del file container.jsx
+import FromTodo from './components/FromTodo';
+import TaskList from './components/taskList';
 
 function App() {
   return (
     <div className="App">
-      <Container/>
+      <Container>
+      </Container>
+      
     </div>
-
-
   );
 }
 
