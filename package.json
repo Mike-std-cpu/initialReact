@@ -1,0 +1,20 @@
+{
+  "name": "initialreact",
+  "version": "1.0.0",
+  "description": "Repositorio para la inicialización de aprendizaje del framework REACT.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-std-cpu/initialReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike-std-cpu/initialReact/issues"
+  },
+  "homepage": "https://github.com/Mike-std-cpu/initialReact#readme"
+}
